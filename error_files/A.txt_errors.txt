@@ -1,0 +1,7 @@
+Error records for file: A.txt
+Generated at: 2025-10-03T18:15:23.385338
+==================================================
+
+Line 6: Expected 3 fields, got 2
+Data: ayush, 1001
+------------------------------

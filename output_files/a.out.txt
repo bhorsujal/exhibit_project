@@ -1,0 +1,5 @@
+John Doe,123 Main Street New York NY 10001,1500.00
+Jane Smith,456 Oak Avenue Los Angeles CA 90210,2750.50
+Bob Johnson,789 Pine Road Chicago IL 60601,890.25
+Alice Brown,321 Elm Street Houston TX 77001,2100.75
+Charlie Wilson,654 Maple Drive Phoenix AZ 85001,1650.00

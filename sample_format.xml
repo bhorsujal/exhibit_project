@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+    <file name="A.txt" timeToArrive="23:59" outfileName="a.out.txt">
+        <format>
+            <field name="customername" maxlength="80"/>
+            <field name="address" maxlength="120"/>
+            <field name="ordervalue" maxlength="10"/>
+        </format>
+    </file>
+    
+    <file name="B.txt" timeToArrive="23:59" outfileName="b.out.txt">
+        <format>
+            <field name="productid" maxlength="20"/>
+            <field name="productname" maxlength="100"/>
+            <field name="price" maxlength="15"/>
+            <field name="quantity" maxlength="5"/>
+        </format>
+    </file>
+    
+    <file name="C.txt" timeToArrive="23:59" outfileName="c.out.txt">
+        <format>
+            <field name="customerid" maxlength="10"/>
+            <field name="email" maxlength="100"/>
+            <field name="phone" maxlength="20"/>
+            <field name="city" maxlength="50"/>
+            <field name="country" maxlength="50"/>
+        </format>
+    </file>
+</configurations>

@@ -1,0 +1,5 @@
+PROD001,Laptop Computer,1299.99,5
+PROD002,Wireless Mouse,29.99,50
+PROD003,USB Cable,12.99,100
+PROD004,Monitor 24 inch,299.99,10
+PROD005,Keyboard Mechanical,89.99,25
